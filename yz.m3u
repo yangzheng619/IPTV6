@@ -285,4 +285,5 @@ http://192.168.2.99:4022/udp/239.49.8.84:8000
 http://192.168.2.99:4022/udp/239.49.8.34:8612
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png" group-title="影视",都市剧场
 http://192.168.2.99:4022/udp/239.49.8.45:8044
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视4K.png" group-title="卫视;江苏",江苏卫视 4K
 http://192.168.2.99:4022/udp/239.49.1.62:8000
