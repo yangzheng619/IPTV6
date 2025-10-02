@@ -57,10 +57,6 @@ http://192.168.2.88:4022/udp/239.49.1.68:8000
 http://192.168.2.88:4022/udp/239.49.1.70:8000
 #EXTINF:-1 tvg-id="SDWS4K" tvg-name="山东卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/卫视/山东卫视.png" group-title="4K频道",山东卫视4K
 http://192.168.2.88:4022/udp/239.49.1.72:8000
-#EXTINF:-1 tvg-id="4KLive1" tvg-name="4K跨年直播1" tvg-logo="https://via.placeholder.com/120x60.png?text=4K-Live1" group-title="4K频道",4K跨年直播1
-http://192.168.2.88:4022/udp/239.49.8.38:8000
-#EXTINF:-1 tvg-id="4KLive2" tvg-name="4K跨年直播2" tvg-logo="https://via.placeholder.com/120x60.png?text=4K-Live2" group-title="4K频道",4K跨年直播2
-http://192.168.2.88:4022/udp/239.49.8.82:8000
 #EXTINF:-1 tvg-id="HXJC4K" tvg-name="欢笑剧场4K" tvg-logo="https://via.placeholder.com/120x60.png?text=欢笑剧场" group-title="4K频道",欢笑剧场4K
 http://192.168.2.88:4022/udp/239.49.8.106:8000
 #EXTINF:-1 tvg-id="JSWS" tvg-name="江苏卫视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/卫视/江苏卫视.png" group-title="卫视频道",江苏卫视HD
