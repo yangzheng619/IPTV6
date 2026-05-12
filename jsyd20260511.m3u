@@ -3,6 +3,8 @@
 http://ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.com/tv/4K修复.png" group-title="4K频道",4K修复
 http://ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/IPTV/main/logo/WildEarth.png" group-title="4K频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://live.fanmingming.com/tv/CCTV4K超高清.png" group-title="4K频道",CCTV4K超高清
 http://ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K超高清压缩4K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K超高清压缩4K.png" group-title="4K频道",CCTV8K超高清压缩4K
